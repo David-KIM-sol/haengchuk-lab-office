@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "zip": "https://github.com/David-KIM-sol/haengchuk-lab-office/releases/download/v1.1.0/haengchuk-lab-v1.1.0.zip",
-  "sha256": "2d12717cd59b2540d2727cabc08718313fe678365d1f2bf3889d0420e39fab56",
-  "signature": "sgpEjBzISTPITc7VeNP2rBAQxGhZjXtqOkGyg4sxzu4kDoNxw5jrG6apOtgBS4bKDBylIULUeKo5/1fBqZZFAw==",
-  "notes": "윈도우에서도 쓸 수 있게 했어요 (바탕화면 아이콘·폴더 열기·카드뉴스 PNG·문서 첨부·업데이트·문제 보내기)",
+  "version": "1.1.1",
+  "zip": "https://github.com/David-KIM-sol/haengchuk-lab-office/releases/download/v1.1.1/haengchuk-lab-v1.1.1.zip",
+  "sha256": "7e67adc782ff3846084a60abef633df0f816025b66a968bfc2c149830a3d0048",
+  "signature": "lYsv9nah/o2vUbfUsRJPdy3mJ9mQABj+OayzaLazT0gX7C22BDPiwo8HyHdXwAK6auY6sIjbLt0Ug6XS7eXZAQ==",
+  "notes": "보안 보강: 윈도우에서 프로그램을 항상 정확한 위치로 실행",
   "date": "2026-11-24"
 }
