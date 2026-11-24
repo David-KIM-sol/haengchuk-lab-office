@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "zip": "https://github.com/David-KIM-sol/haengchuk-lab-office/releases/download/v1.0.0/haengchuk-lab-v1.0.0.zip",
-  "sha256": "f6cd3dc52498d07721c268198b8602485eabb111b72707a2f9377b09fa7aa858",
-  "signature": "+iXlpynaMwXH+KMkjId+SBr9VfZ/K85uRow4dVzkHQUouWZF3kXVW0mZEaR6ED8xjs6Qfg/RzHaD1KlY1qOwDA==",
-  "notes": "첫 버전 — 행축연구소 AI 사무실",
+  "version": "1.1.0",
+  "zip": "https://github.com/David-KIM-sol/haengchuk-lab-office/releases/download/v1.1.0/haengchuk-lab-v1.1.0.zip",
+  "sha256": "2d12717cd59b2540d2727cabc08718313fe678365d1f2bf3889d0420e39fab56",
+  "signature": "sgpEjBzISTPITc7VeNP2rBAQxGhZjXtqOkGyg4sxzu4kDoNxw5jrG6apOtgBS4bKDBylIULUeKo5/1fBqZZFAw==",
+  "notes": "윈도우에서도 쓸 수 있게 했어요 (바탕화면 아이콘·폴더 열기·카드뉴스 PNG·문서 첨부·업데이트·문제 보내기)",
   "date": "2026-11-24"
 }
